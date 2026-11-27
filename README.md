@@ -12,8 +12,7 @@ Open `index.html` in any text editor. Each part of the page is marked with a com
 Change the words between the tags (for example, between `<p>` and `</p>`) and save the file. Leave the tags themselves alone.
 
 ## Adding your photo
-1. Save your photo as `photo.jpg` in this folder (a square image works best).
-2. In `index.html`, find `<span>KH</span>` and replace it with `<img src="photo.jpg" alt="Kimberly Hayman">`.
+Upload a square photo named `photo.jpg` to this folder (on GitHub: **Add file → Upload files**). It appears on the page automatically; until then, the initials "KH" show instead. Use a JPG under about 500 KB so the page loads quickly.
 
 ## Changing colors
 The colors are listed together at the top of the `<style>` section under `:root`. Change `--accent` to swap the teal for another color.
